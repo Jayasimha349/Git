@@ -1,3 +1,3 @@
-!#/bin/bash
+#!/bin/bash
 
-echo"jaya simha reddy"
+echo "jaya simha reddy"
