@@ -6,6 +6,6 @@ read -p 'Enter your name :' name
 
 read -p 'Enter your course :' course
 
-echo" Your name is $name and course is $course
+echo -e " Your Name is $name and Course is $course"
 
 
